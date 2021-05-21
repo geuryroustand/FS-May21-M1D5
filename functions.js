@@ -23,9 +23,9 @@ const writeHeader = function(header, lineLength = 30, lineCharacter = "-"){ // d
 }
 
 writeHeader("switch case", 40, "=")
-writeHeader("switch case", 20, "~")
+/*writeHeader("switch case", 20, "~")
 writeHeader("switch case", 10, ".")
-writeHeader("switch case", 60, "_")
+writeHeader("switch case", 60, "_")*/
 
 let user = "Max"
 
